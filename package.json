@@ -25,5 +25,6 @@
     "watchify": "^3.9.0"
   },
   "name": "levabala_interactjs",
-  "version": "1.3.4"
+  "version": "1.3.4",
+  "main": "dist/interact.js"
 }
